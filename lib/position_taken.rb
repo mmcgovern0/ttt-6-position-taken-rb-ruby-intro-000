@@ -2,4 +2,5 @@
 
 def position_taken?(board, index)
   taken = nill
+  if ()
 end
